@@ -50,4 +50,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-wizard23&label=Profile%20views&color=0e75b6&style=flat" alt="web-wizard23" /> </p>
 
-<a href="[https://linkedin.com/in/shivraj nakum](https://www.linkedin.com/in/shivraj-nakum-11b3b4233/)" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="shivraj nakum" height="30" width="40" /></a>
+
